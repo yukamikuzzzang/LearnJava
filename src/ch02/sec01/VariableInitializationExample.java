@@ -1,4 +1,4 @@
-package ch02;
+package ch02.sec01;
 
 /**
  * java: variable value might not have been initialized

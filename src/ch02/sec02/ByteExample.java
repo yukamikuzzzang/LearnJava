@@ -1,4 +1,4 @@
-package ch02;
+package ch02.sec02;
 
 /**
  * byte: -2^7 ~ 2^7-1
@@ -18,7 +18,7 @@ public class ByteExample {
         System.out.println("var3 = " + var3);
         System.out.println("var4 = " + var4);
         System.out.println("var5 = " + var5);
-        System.out.println("var6 = " + var6);
+        //System.out.println("var6 = " + var6);
 
     }
 }
